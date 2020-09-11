@@ -42,4 +42,16 @@ for (let x=0; x < 5; x=x+1){
 console.log(x);
  }
  console.log ("finally :" ,x);
+ 
  // git
+//modification
+for (var i=0; i < 5; i=i+1){
+    console.log(i);
+     }
+     console.log ("finally :" ,i);
+     //let
+    
+    for (let x=0; x < 5; x=x+1){
+    console.log(x);
+     }
+     console.log ("finally :" ,x);
